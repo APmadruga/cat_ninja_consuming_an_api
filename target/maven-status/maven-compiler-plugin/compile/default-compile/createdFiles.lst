@@ -1,0 +1,7 @@
+com\upgradehub\provider\FactResponse.class
+com\upgradehub\Application.class
+com\upgradehub\controller\CatController.class
+com\upgradehub\utils\SwaggerConfig.class
+com\upgradehub\provider\HttpClientConfig.class
+com\upgradehub\provider\FactProvider.class
+com\upgradehub\service\FactService.class
